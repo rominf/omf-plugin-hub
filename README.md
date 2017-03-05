@@ -9,23 +9,15 @@
 
 <br/>
 
-This plugin makes alias `hub` -> `git` and adds completions for [hub][https://github.com/github/hub].
+This plugin makes alias `hub` -> `git` and adds completions for [hub](https://github.com/github/hub).
 
-Completions are taken from the https://github.com/github/hub/blob/master/etc/hub.fish_completion.
+Completions are taken from the [hub repository](https://github.com/github/hub/blob/master/etc/hub.fish_completion).
 
 ## Install
 
 ```fish
 $ omf install hub
 ```
-
-
-## Usage
-
-```fish
-$ hub
-```
-
 
 # License
 
